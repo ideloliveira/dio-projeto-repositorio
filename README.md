@@ -1,5 +1,5 @@
 # Primeiro Repositório - Projeto DIO
-Criação de um repositório para ser apresentado com projeto da DIO
+Desafio Dio - criação de um repositório para ser apresentado com projeto
 
 
 #### Sites Úteis
