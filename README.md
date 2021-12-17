@@ -4,7 +4,7 @@ Criação de um repositório para ser apresentado com projeto da DIO
 
 #### Sites Úteis
 ___
->[Digital Innovation Onr - DIO](https://www.dio.me › sign-in)
+>[Digital Innovation One - DIO](https://www.dio.me/sign-in)
 
 >[Baixar o Git](https://git-scm.com/downloads)
 
